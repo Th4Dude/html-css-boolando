@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.container-main {
+.container-main-header {
     background-color: #ff6900;
     height: 70px;
     position: relative;
@@ -52,6 +52,20 @@ top: 25px;
     text-decoration: none;
 }
 
+.container-img{
+    margin-top: 50px;
+    height: 650px;
+    width: 450px;
+    background-color: #cd946b;
+}
+
+.container-main-centrale{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
 
 
 
