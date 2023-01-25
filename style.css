@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-main {
+    background-color: #ff6900;
+    height: 70px;
+    position: relative;
+}
+
+.container-gender,
+.container-logo,
+.container-icon {
+    display: inline-block;
+}
+
+.container-gender{
+    position: absolute;
+    left: 270px;
+    top: 30px;
+}
+
+.gender {
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.container-logo{
+position: absolute;
+left: 950px;
+top: 25px;
+
+}
+
+.logo {
+    height: 30px;
+    width: 135px;
+}
+
+.container-icon {
+    position: absolute;
+    right: 270px;
+    top: 30px;
+}
+
+.icon {
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
